@@ -26,7 +26,11 @@ npm install
 ```
 
 ```
-npm start
+npm run dev
+```
+
+```
+Allez au http://localhost:5173/
 ```
 
 Merci d'avoir pris le temps de lire le README.
